@@ -11,7 +11,7 @@ Then run
 
 ```bash
 lake update
-``
+```
 to update dependency.
 
 Now you can test your answer (written in a `.lean` file in the same folder) to check if it is compatible with version 4.13.0.
