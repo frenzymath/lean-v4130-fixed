@@ -7,12 +7,7 @@ To use this project, clone it to your local first:
 git clone https://github.com/frenzymath/lean-v4130-fixed.git
 ```
 
-Then run 
-
-```bash
-lake update
-```
-to update dependency.
+Then run `lake update` to update dependency.
 
 Now you can test your answer (written in a `.lean` file in the same folder) to check if it is compatible with version 4.13.0.
 
